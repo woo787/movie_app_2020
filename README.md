@@ -1,7 +1,7 @@
 # Movie App based on React
 
-##1. you can see the app through this URL https://woo787.github.io/movie_app_2020 
-##2. 
+## 1. you can see the app through this URL https://woo787.github.io/movie_app_2020 
+## 2. 
 
 
 
