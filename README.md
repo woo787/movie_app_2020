@@ -1,6 +1,11 @@
-# Movie App 2020
+# Movie App based on React
 
 
-React JS Fundamentals Course 2020
+
+
+
+
+
+This App was is not my own project, made by referring to React JS Fundamentals Course 2020
 
 
